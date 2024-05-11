@@ -1,0 +1,16 @@
+.main {
+  display:flex;}
+
+.first{
+    width:50%;
+    margin:10px;
+}
+.second{
+    width:50%;
+    margin:10px;
+}
+.third{
+    width:50%;
+    margin:10px;
+}
+

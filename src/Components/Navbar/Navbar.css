@@ -1,7 +1,7 @@
 nav{
     width:100%;
     /*background: #333;*/
-    color: #100d0d;
+    color: #f0eded;
     padding:4px 0;
     position: fixed;
     top:0;
@@ -28,7 +28,7 @@ nav ul li{
   }
 
 .dark-nav{
-    background: #ebf2f0;
+    background: #525ac6;
     transition:05s;
 }
 .menu-icon{
